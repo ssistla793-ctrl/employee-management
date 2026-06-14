@@ -5,3 +5,4 @@ Employee Name: John
 Department: QA
 salary: 50000
 Address: Delhi
+Email: john@xyz.com
